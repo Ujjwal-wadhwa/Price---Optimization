@@ -30,4 +30,3 @@ This project comprises two parts, each focusing on avocado price optimization:
 
 You can download the entire repository, by [repository_link](https://github.com/Ujjwal-wadhwa/Price---Optimization/archive/refs/heads/main.zip).
 
-Feel free to explore, contribute, and use this project as a valuable resource for understanding the power of optimization and data science in pricing and supply chain management.
